@@ -6,7 +6,7 @@ setup(
     author="Dan Paulson",
     author_email="danpaulson@gmail.com",
     description="Decorator for scheduling tasks with celery",
-    version='1.0.1',
+    version='1.0.2',
     install_requires=[
         'celery',
     ]
